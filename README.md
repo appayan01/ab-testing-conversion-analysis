@@ -43,3 +43,21 @@ The new landing page did not produce a statistically significant improvement in 
 - Matplotlib
 - Seaborn
 - Google Colab
+
+  ## Visualizations
+
+### Conversion Rate by Group
+
+![Conversion Rate by Group](Conversion_rate_by_group.png)
+
+### Daily Conversion Rate
+
+![Daily Conversion Rate](Daily_Conversion_Rate.png)
+
+### Daily Conversion Rate by Group
+
+![Daily Conversion Rate by Group](Daily_Conversion_Rate_By_Group.png)
+
+### Conversion Rate by Country
+
+![Conversion Rate by Country](Conversion_rate_by_country.png)
